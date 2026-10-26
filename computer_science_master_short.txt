@@ -1,0 +1,672 @@
+COMPUTER SCIENCE MASTERY — COMPLETE SHORT BIBLIOGRAPHY
+261 entries | Original 190 retained | Expanded canonical works and historical standards
+Format: Title — Author: What it teaches and why it matters.
+
+DIGITAL ELECTRONICS, LOGIC, AND COMPUTER HARDWARE
+=================================================
+B001. Code: The Hidden Language of Computer Hardware and Software — Charles Petzold: Explains how electrical circuits, binary logic, and switches become functioning computers.
+
+B002. The Elements of Computing Systems (From Nand to Tetris) — Noam Nisan & Shimon Schocken: Builds a complete computer from logic gates through processors, compilers, operating systems, and applications.
+
+B003. Digital Design and Computer Architecture — David Money Harris & Sarah L. Harris: Teaches digital circuits, Boolean logic, processor construction, and hardware architecture.
+
+B004. Digital Fundamentals — Thomas L. Floyd: Explains electronic logic circuits, gates, flip-flops, counters, and digital hardware.
+
+B005. Computer Organization and Design — David A. Patterson & John L. Hennessy: Explores instruction sets, CPU organization, memory hierarchies, and hardware/software interaction.
+
+B006. Computer Architecture: A Quantitative Approach — John L. Hennessy & David A. Patterson: Examines processor performance, parallelism, caching, and advanced architecture.
+
+B007. Structured Computer Organization — Andrew S. Tanenbaum & Todd Austin: Explains computer systems as interconnected layers of hardware, microarchitecture, and software.
+
+B008. The Art of Electronics — Paul Horowitz & Winfield Hill: Develops practical understanding of analog and digital electronic circuits.
+
+B009. But How Do It Know? — J. Clark Scott: Explains how a simple CPU executes instructions using fundamental digital components.
+
+B010. The Elements of Computer Systems, Part II — Noam Nisan & Shimon Schocken: Focuses on virtual machines, compilers, operating systems, and high-level software construction.
+
+B191. The TTL Data Book — Texas Instruments: Documents real logic IC families, pinouts, and electrical behavior for hands-on digital design.
+
+B192. CMOS VLSI Design: A Circuits and Systems Perspective — Neil H. E. Weste & David Money Harris: Explains integrated-circuit design, transistor logic, timing, and chip implementation.
+
+B193. The Art of Assembly Language — Randall Hyde: Connects machine instructions, registers, memory, and low-level programming.
+
+MATHEMATICS AND THEORETICAL COMPUTER SCIENCE
+============================================
+B011. Discrete Mathematics and Its Applications — Kenneth H. Rosen: Establishes logic, sets, relations, proofs, graphs, and combinatorics.
+
+B012. Mathematics for Computer Science — Eric Lehman, F. Thomson Leighton & Albert R. Meyer: Develops mathematical reasoning essential for algorithms and computing.
+
+B013. How to Prove It — Daniel J. Velleman: Teaches formal proof construction and rigorous logical reasoning.
+
+B014. Introduction to the Theory of Computation — Michael Sipser: Explains automata, formal languages, computability, and computational complexity.
+
+B015. Computational Complexity: A Modern Approach — Sanjeev Arora & Boaz Barak: Investigates computational difficulty, complexity classes, and fundamental limits.
+
+B016. Concrete Mathematics — Ronald L. Graham, Donald E. Knuth & Oren Patashnik: Connects discrete mathematics with advanced algorithm analysis.
+
+B017. Introduction to Linear Algebra — Gilbert Strang: Builds matrix and vector mathematics used in graphics, optimization, and machine learning.
+
+B018. Calculus — Michael Spivak: Develops rigorous mathematical foundations for continuous change and analysis.
+
+B019. Introduction to Probability — Joseph K. Blitzstein & Jessica Hwang: Explains probability, randomness, distributions, and statistical reasoning.
+
+B020. All of Statistics — Larry Wasserman: Provides statistical foundations for data science and machine learning.
+
+B021. Numerical Analysis — Richard L. Burden, J. Douglas Faires & Annette M. Burden: Explains computational approximation, numerical accuracy, and mathematical algorithms.
+
+B022. Category Theory for the Sciences — David I. Spivak: Introduces compositional mathematical structures for understanding interconnected systems.
+
+B023. Gödel, Escher, Bach: An Eternal Golden Braid — Douglas R. Hofstadter: Explores formal systems, recursion, self-reference, intelligence, and computation.
+
+B194. Computability and Logic — George S. Boolos, John P. Burgess & Richard C. Jeffrey: Develops formal logic, computability, and the mathematical limits of algorithms.
+
+B195. Introduction to Graph Theory — Douglas B. West: Explains graph structures, proofs, and algorithms used in networks and optimization.
+
+PROGRAMMING, LANGUAGES, AND SOFTWARE FOUNDATIONS
+================================================
+B024. Structure and Interpretation of Computer Programs — Harold Abelson & Gerald Jay Sussman, with Julie Sussman [also: SICP, Wizard Book]: Teaches abstraction, recursion, interpreters, and fundamental programming concepts.
+
+B025. The Little LISPer — Daniel P. Friedman & Matthias Felleisen: Develops recursive thinking and foundational Lisp programming.
+
+B026. The Little Schemer — Daniel P. Friedman & Matthias Felleisen [also: The Little Schemer]: Builds disciplined recursive reasoning through Scheme.
+
+B027. The Seasoned Schemer — Daniel P. Friedman & Matthias Felleisen: Extends recursive programming into advanced abstractions and continuations.
+
+B028. The Reasoned Schemer — Daniel P. Friedman, William E. Byrd, Oleg Kiselyov & Jason Hemann: Introduces relational and logic programming.
+
+B029. The C Programming Language — Brian W. Kernighan & Dennis M. Ritchie [also: K&R]: Teaches C programming and its relationship to systems software.
+
+B030. Modern C — Jens Gustedt: Explains modern C language features, memory management, and systems programming.
+
+B031. Programming: Principles and Practice Using C++ — Bjarne Stroustrup: Builds programming fundamentals through structured C++ development.
+
+B032. The Rust Programming Language — Steve Klabnik & Carol Nichols: Introduces memory-safe systems programming, ownership, and concurrency.
+
+B033. Fluent Python — Luciano Ramalho: Explores Python's data model, advanced abstractions, and language internals.
+
+B034. Eloquent JavaScript — Marijn Haverbeke: Teaches JavaScript, functional concepts, and web programming.
+
+B035. Concepts, Techniques, and Models of Computer Programming — Peter Van Roy & Seif Haridi: Compares programming paradigms and their computational models.
+
+B036. Types and Programming Languages — Benjamin C. Pierce: Explains type systems, language semantics, and program correctness.
+
+B037. Programming Language Pragmatics — Michael L. Scott: Examines programming language design, implementation, and runtime behavior.
+
+B038. The Pragmatic Programmer — Andrew Hunt & David Thomas: Develops practical software engineering judgment and maintainable programming habits.
+
+B196. The Little MLer — Matthias Felleisen & Daniel P. Friedman: Uses functional programming to teach type-directed program design.
+
+B197. How to Design Programs — Matthias Felleisen, Robert Bruce Findler, Matthew Flatt & Shriram Krishnamurthi: Teaches systematic program design through data definitions and tests.
+
+B198. The C++ Programming Language — Bjarne Stroustrup: Documents the language's design, abstractions, and systems-programming mechanisms.
+
+B199. The Practice of Programming — Brian W. Kernighan & Rob Pike: Teaches testing, debugging, interfaces, and pragmatic coding techniques.
+
+B200. The AWK Programming Language — Alfred V. Aho, Brian W. Kernighan & Peter J. Weinberger: Explains composable text processing and classic UNIX scripting.
+
+B201. The UNIX Programming Environment — Brian W. Kernighan & Rob Pike: Demonstrates UNIX tools, shell pipelines, and the philosophy of small programs.
+
+ALGORITHMS, DATA STRUCTURES, AND COMPUTATIONAL PROBLEM-SOLVING
+==============================================================
+B039. Introduction to Algorithms — Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein: Establishes algorithm design, complexity analysis, and fundamental data structures.
+
+B040. The Art of Computer Programming — Donald E. Knuth [also: TAOCP]: Provides rigorous mathematical treatment of algorithms and computational techniques.
+
+B041. Algorithms — Robert Sedgewick & Kevin Wayne: Teaches sorting, searching, graphs, and practical algorithm implementation.
+
+B042. Algorithm Design — Jon Kleinberg & Éva Tardos: Explores greedy algorithms, dynamic programming, network flow, and computational reasoning.
+
+B043. The Algorithm Design Manual — Steven S. Skiena: Connects algorithmic theory with real-world problem solving.
+
+B044. Data Structures and Algorithm Analysis in C — Mark Allen Weiss: Explains efficient data organization and algorithm performance.
+
+B045. Algorithms Unlocked — Thomas H. Cormen: Introduces essential algorithms and why they work.
+
+B046. Competitive Programming 4 — Steven Halim, Felix Halim & Suhendry Effendy: Develops practical algorithmic problem-solving and optimization skills.
+
+B047. Pearls of Functional Algorithm Design — Richard Bird: Demonstrates elegant algorithms through functional programming and mathematical reasoning.
+
+B202. Programming Pearls — Jon Bentley: Develops algorithmic intuition through elegant practical programming problems.
+
+B203. More Programming Pearls — Jon Bentley: Deepens performance analysis and algorithmic problem solving.
+
+B204. The Art of Computer Programming, Volume 4A — Donald E. Knuth [also: TAOCP]: Studies combinatorial algorithms, enumeration, and backtracking.
+
+OPERATING SYSTEMS, UNIX, AND SYSTEMS PROGRAMMING
+================================================
+B048. Operating Systems: Three Easy Pieces — Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau: Explains virtualization, concurrency, processes, and persistent storage.
+
+B049. Operating System Concepts — Abraham Silberschatz, Peter B. Galvin & Greg Gagne [also: Dinosaur Book]: Covers process management, scheduling, memory, file systems, and synchronization.
+
+B050. Modern Operating Systems — Andrew S. Tanenbaum & Herbert Bos: Explores operating system architecture, distributed systems, and security.
+
+B051. The Design of the UNIX Operating System — Maurice J. Bach: Explains traditional UNIX kernel architecture and internal mechanisms.
+
+B052. Lions' Commentary on UNIX 6th Edition, with Source Code — John Lions: Studies real UNIX kernel source to understand operating system construction.
+
+B053. Advanced Programming in the UNIX Environment — W. Richard Stevens & Stephen A. Rago: Teaches processes, signals, files, terminals, and UNIX system interfaces.
+
+B054. The Linux Programming Interface — Michael Kerrisk: Provides detailed coverage of Linux system calls and kernel-facing programming.
+
+B055. Understanding the Linux Kernel — Daniel P. Bovet & Marco Cesati: Explains kernel internals, scheduling, memory, and hardware interaction.
+
+B056. Linux Kernel Development — Robert Love: Introduces Linux kernel architecture and development techniques.
+
+B057. Linux Device Drivers — Jonathan Corbet, Alessandro Rubini & Greg Kroah-Hartman: Explains hardware interaction through kernel drivers.
+
+B058. Computer Systems: A Programmer's Perspective — Randal E. Bryant & David R. O'Hallaron [also: CS:APP]: Connects machine instructions, memory, linking, processes, and systems programming.
+
+B059. The Art of UNIX Programming — Eric S. Raymond: Teaches modularity, composability, simplicity, and UNIX design philosophy.
+
+B060. UNIX and Linux System Administration Handbook — Evi Nemeth and collaborators: Covers practical administration, automation, networking, and infrastructure operations.
+
+B205. The Design and Implementation of the 4.4BSD Operating System — Marshall Kirk McKusick, Keith Bostic, Michael J. Karels & John S. Quarterman: Explains BSD kernel subsystems and their engineering tradeoffs.
+
+B206. The Design and Implementation of the FreeBSD Operating System — Marshall Kirk McKusick, George V. Neville-Neil & Robert N. M. Watson: Explores a production UNIX-like kernel and its subsystems.
+
+B207. The UNIX-HATERS Handbook — Simson Garfinkel, Daniel Weise & Steven Strassmann, editors: Offers historical critiques of UNIX usability and design choices.
+
+COMPILERS, INTERPRETERS, AND PROGRAMMING LANGUAGE IMPLEMENTATION
+================================================================
+B061. Compilers: Principles, Techniques, and Tools — Alfred V. Aho, Monica S. Lam, Ravi Sethi & Jeffrey D. Ullman [also: Dragon Book]: Explains lexical analysis, parsing, optimization, and machine-code generation.
+
+B062. Engineering a Compiler — Keith Cooper & Linda Torczon: Teaches practical compiler architecture and optimization techniques.
+
+B063. Crafting Interpreters — Robert Nystrom: Builds interpreters and virtual machines from fundamental components.
+
+B064. Writing an Interpreter in Go — Thorsten Ball: Demonstrates language parsing, evaluation, and interpreter construction.
+
+B065. Writing a Compiler in Go — Thorsten Ball: Extends language implementation into bytecode compilation and virtual machines.
+
+B066. Modern Compiler Implementation in ML — Andrew W. Appel: Explores intermediate representations, code generation, and compiler architecture.
+
+B067. Advanced Compiler Design and Implementation — Steven S. Muchnick: Examines compiler optimization and advanced program analysis.
+
+B068. Linkers and Loaders — John R. Levine: Explains object files, symbol resolution, executable loading, and linking.
+
+B208. Parsing Techniques: A Practical Guide — Dick Grune & Ceriel J. H. Jacobs: Surveys grammar parsing methods and implementation tradeoffs.
+
+B209. The Implementation of Functional Programming Languages — Simon Peyton Jones: Explains lazy functional language implementation and graph reduction.
+
+NETWORKING, INTERNET ARCHITECTURE, AND COMMUNICATION PROTOCOLS
+==============================================================
+B069. Computer Networking: A Top-Down Approach — James F. Kurose & Keith W. Ross: Explains networking from applications through transport, routing, and physical communication.
+
+B070. Computer Networks — Andrew S. Tanenbaum, Nick Feamster & David J. Wetherall: Provides comprehensive coverage of network architecture and protocols.
+
+B071. TCP/IP Illustrated, Volume 1 — W. Richard Stevens: Examines TCP/IP behavior through protocol analysis and packet-level examples.
+
+B072. TCP/IP Illustrated, Volume 2 — Gary R. Wright & W. Richard Stevens: Explores TCP/IP protocol implementations in source code.
+
+B073. Internetworking with TCP/IP, Volume One — Douglas E. Comer: Teaches internet architecture, addressing, routing, and protocol design.
+
+B074. UNIX Network Programming, Volume 1 — W. Richard Stevens, Bill Fenner & Andrew M. Rudoff: Explains sockets, client-server communication, and network application development.
+
+B075. Network Warrior — Gary A. Donahue: Develops practical understanding of enterprise switching, routing, and network operations.
+
+B076. Routing TCP/IP, Volume I — Jeff Doyle & Jennifer DeHaven Carroll: Explains routing protocols, addressing, and network topology.
+
+B077. Wireshark Network Analysis — Laura Chappell: Teaches packet inspection, troubleshooting, and protocol behavior.
+
+B078. HTTP: The Definitive Guide — David Gourley & Brian Totty, with Marjorie Sayer, Sailu Reddy & Anshu Aggarwal: Explains HTTP architecture, caching, proxies, and web communication.
+
+B079. ASN.1: Communication Between Heterogeneous Systems — Olivier Dubuisson: Explains ASN.1 specifications, encoding rules, and interoperable data representation.
+
+B080. ASN.1 Complete — John Larmouth: Teaches ASN.1 syntax, BER, DER, PER, and protocol data structures.
+
+B210. TCP/IP Illustrated, Volume 3 — W. Richard Stevens: Examines TCP transactions and HTTP-related network behavior.
+
+B211. DNS and BIND — Cricket Liu & Paul Albitz: Explains DNS architecture, configuration, and troubleshooting.
+
+B212. The Internet Protocol Journal: Selected Papers — Cisco Systems: Provides historical technical perspectives on internet protocol engineering.
+
+DATABASES, STORAGE, AND DISTRIBUTED SYSTEMS
+===========================================
+B081. Database System Concepts — Abraham Silberschatz, Henry F. Korth & S. Sudarshan: Explains relational databases, transactions, indexing, and query processing.
+
+B082. Database Management Systems — Raghu Ramakrishnan & Johannes Gehrke: Covers database architecture, optimization, storage, and concurrency.
+
+B083. Designing Data-Intensive Applications — Martin Kleppmann: Explains distributed storage, replication, consistency, and reliable data systems.
+
+B084. Transaction Processing: Concepts and Techniques — Jim Gray & Andreas Reuter: Studies transaction guarantees, recovery, and database reliability.
+
+B085. Distributed Systems — Maarten van Steen & Andrew S. Tanenbaum: Explains coordination, replication, fault tolerance, and distributed architecture.
+
+B086. Distributed Algorithms — Nancy A. Lynch: Develops formal reasoning about asynchronous systems and distributed computation.
+
+B087. Understanding Distributed Systems — Roberto Vitillo: Explains practical distributed system behavior, failure modes, and scalability.
+
+B088. Database Internals — Alex Petrov: Examines storage engines, indexing structures, and distributed database implementation.
+
+B089. Streaming Systems — Tyler Akidau, Slava Chernyak & Reuven Lax: Explains event processing, streaming computation, and dataflow architectures.
+
+B213. Principles of Distributed Database Systems — M. Tamer Özsu & Patrick Valduriez: Explains distributed queries, fragmentation, replication, and consistency.
+
+B214. Designing Data-Intensive Applications, Second Edition — Martin Kleppmann & Chris Riccomini: Updates foundations of reliable data-intensive systems and modern distributed data engineering.
+
+SOFTWARE ENGINEERING, ARCHITECTURE, AND RELIABILITY
+===================================================
+B090. Clean Code — Robert C. Martin: Teaches readable, maintainable software and disciplined refactoring.
+
+B091. Clean Architecture — Robert C. Martin: Explains software boundaries, dependency management, and architectural separation.
+
+B092. Design Patterns — Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides [also: Gang of Four, GoF]: Introduces reusable object-oriented design solutions.
+
+B093. Refactoring — Martin Fowler: Teaches systematic improvement of existing code without changing intended behavior.
+
+B094. Domain-Driven Design — Eric Evans: Explains modeling complex business domains in software.
+
+B095. Patterns of Enterprise Application Architecture — Martin Fowler: Explores enterprise application structure and data-access patterns.
+
+B096. The Mythical Man-Month — Frederick P. Brooks Jr. [also: Mythical Man-Month]: Examines software project complexity, coordination, and engineering management.
+
+B097. Code Complete — Steve McConnell: Covers practical software construction, testing, and engineering discipline.
+
+B098. Software Engineering at Google — Titus Winters, Tom Manshreck & Hyrum Wright: Explores maintainability, testing, and software development at scale.
+
+B099. Site Reliability Engineering — Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy: Explains reliability, monitoring, incident response, and production operations.
+
+B100. Release It! — Michael T. Nygard: Teaches resilient software design and production failure prevention.
+
+B101. The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis: Explains automated delivery, operational feedback, and continuous improvement.
+
+B102. Continuous Delivery — Jez Humble & David Farley: Covers automated testing, deployment pipelines, and reliable releases.
+
+B103. Designing Software Architectures — Humberto Cervantes & Rick Kazman: Teaches architectural decisions, quality attributes, and system tradeoffs.
+
+B215. The Cathedral and the Bazaar — Eric S. Raymond: Examines open-source development models and collaborative engineering culture.
+
+B216. Peopleware — Tom DeMarco & Timothy Lister: Explains human and organizational factors in software project performance.
+
+B217. The Psychology of Computer Programming — Gerald M. Weinberg: Connects software development practice with human cognition and team behavior.
+
+B218. A Philosophy of Software Design — John Ousterhout: Explains complexity management through deep modules and clean interfaces.
+
+B219. Working Effectively with Legacy Code — Michael Feathers: Teaches safe changes to existing software using tests and dependency isolation.
+
+CYBERSECURITY, CRYPTOGRAPHY, AND OFFENSIVE SECURITY
+===================================================
+B104. Security Engineering — Ross Anderson: Explains security architecture, adversarial thinking, and real-world system failures.
+
+B105. Computer Security: Art and Science — Matt Bishop: Establishes formal security models, access control, and system protection.
+
+B106. Cryptography and Network Security — William Stallings: Introduces encryption, authentication, cryptographic protocols, and network protection.
+
+B107. Understanding Cryptography — Christof Paar & Jan Pelzl: Explains cryptographic mathematics and practical encryption mechanisms.
+
+B108. Introduction to Modern Cryptography — Jonathan Katz & Yehuda Lindell: Develops rigorous foundations for cryptographic security.
+
+B109. Serious Cryptography — Jean-Philippe Aumasson: Explains modern cryptographic primitives and implementation considerations.
+
+B110. Applied Cryptography — Bruce Schneier: Surveys cryptographic algorithms, protocols, and practical applications.
+
+B111. The Web Application Hacker's Handbook — Dafydd Stuttard & Marcus Pinto: Explains web application vulnerabilities and penetration-testing techniques.
+
+B112. Real-World Bug Hunting — Peter Yaworski: Demonstrates vulnerability discovery through real security cases.
+
+B113. The Tangled Web — Michal Zalewski: Examines browser security, web origins, and application attack surfaces.
+
+B114. The Art of Software Security Assessment — Mark Dowd, John McDonald & Justin Schuh: Teaches source-code auditing and vulnerability analysis.
+
+B115. The Shellcoder's Handbook — Chris Anley, John Heasman, Felix Lindner & Gerardo Richarte: Explores memory corruption, exploit development, and low-level vulnerabilities.
+
+B116. Practical Binary Analysis — Dennis Andriesse: Teaches binary formats, disassembly, instrumentation, and reverse engineering.
+
+B117. Practical Malware Analysis — Michael Sikorski & Andrew Honig: Explains static and dynamic analysis of malicious software.
+
+B118. The IDA Pro Book — Chris Eagle: Teaches reverse engineering through professional disassembly workflows.
+
+B119. Hacking: The Art of Exploitation — Jon Erickson: Connects C programming, assembly, memory, and exploit mechanics.
+
+B120. Penetration Testing — Georgia Weidman: Introduces structured security assessments and practical testing methodology.
+
+B121. The Hacker Playbook 3 — Peter Kim: Demonstrates adversary-emulation techniques and penetration-testing workflows.
+
+B122. Attacking Network Protocols — James Forshaw: Explores protocol implementation flaws and network attack surfaces.
+
+B123. Rootkits and Bootkits — Alex Matrosov, Eugene Rodionov & Sergey Bratus: Examines low-level malware persistence and platform security.
+
+B124. The Art of Memory Forensics — Michael Hale Ligh, Andrew Case, Jamie Levy & AAron Walters: Teaches forensic analysis of system memory and malicious activity.
+
+B125. Blue Team Handbook: Incident Response Edition — Don Murdoch: Introduces defensive investigation, incident handling, and security operations.
+
+B126. Threat Modeling: Designing for Security — Adam Shostack: Teaches systematic identification and mitigation of security threats.
+
+B127. The Orange Book: Trusted Computer System Evaluation Criteria — U.S. Department of Defense [also: Orange Book]: Establishes historical foundations of trusted computing and security evaluation.
+
+B128. NIST SP 800-53: Security and Privacy Controls for Information Systems and Organizations — NIST: Defines comprehensive security and privacy control families.
+
+B129. NIST SP 800-115: Technical Guide to Information Security Testing and Assessment — NIST: Explains structured security assessment and testing methodologies.
+
+B130. NIST SP 800-160, Volume 1: Systems Security Engineering — NIST: Integrates security engineering throughout the systems lifecycle.
+
+B220. The Hacker's Handbook — Hugo Cornwall: Documents early hacker culture and historical system exploration.
+
+B221. The New Hacker's Dictionary — Eric S. Raymond, editor: Catalogs computing slang, jargon, and hacker cultural history.
+
+B222. The Hacker Crackdown — Bruce Sterling: Documents early computer-crime enforcement and hacker communities.
+
+B223. The Code Book — Simon Singh: Introduces the history and mathematical ideas behind cryptography.
+
+B224. The Art of Deception — Kevin D. Mitnick & William L. Simon: Explains social engineering and human-centered security failures.
+
+B225. The Art of Intrusion — Kevin D. Mitnick & William L. Simon: Examines real-world intrusion stories and security lessons.
+
+B226. The Blue Book: Computer Security Requirements—Guidance for Applying the DoD Trusted Computer System Evaluation Criteria in Specific Environments — U.S. Department of Defense / National Computer Security Center: Documents historical trusted-system evaluation guidance.
+
+B227. The Red Book: Trusted Network Interpretation of the Trusted Computer System Evaluation Criteria — U.S. National Computer Security Center [also: Red Book]: Applies historical trusted-computing criteria to networks.
+
+B228. The Green Book: Department of Defense Password Management Guideline — U.S. Department of Defense / National Computer Security Center: Describes historical password management practices and evaluation concepts.
+
+B229. The Lavender Book: A Guide to Understanding Trusted Distribution in Trusted Systems — U.S. National Computer Security Center: Explains historical trusted software distribution and integrity concerns.
+
+B253. Trusted Computer System Evaluation Criteria (Orange Book) — DoD 5200.28-STD [also: Orange Book]: Foundational historical criteria for evaluating trusted computer systems.
+
+B254. Trusted Network Interpretation (Red Book) — NCSC-TG-005 [also: Red Book]: Adapts trusted-system evaluation concepts to networked environments.
+
+B255. Computer Security Requirements: Guidance for Applying the DoD Trusted Computer System Evaluation Criteria in Specific Environments (Blue Book) — NCSC-TG-009: Guidance on applying historical evaluation criteria in operational contexts.
+
+B256. Department of Defense Password Management Guideline (Green Book) — CSC-STD-002-85: Historical guidance on password controls and their limitations.
+
+B257. A Guide to Understanding Trusted Distribution in Trusted Systems (Lavender Book) — NCSC-TG-008: Examines trusted distribution and integrity during system delivery.
+
+B258. A Guide to Understanding Discretionary Access Control in Trusted Systems — NCSC-TG-003: Explains discretionary access control as an evaluated security property.
+
+B259. A Guide to Understanding Audit in Trusted Systems — NCSC-TG-001: Explains security audit and accountability in trusted systems.
+
+B260. A Guide to Understanding Identification and Authentication in Trusted Systems — NCSC-TG-017: Examines identity and authentication requirements in trusted systems.
+
+B261. A Guide to Understanding Covert Channel Analysis of Trusted Systems — NCSC-TG-030: Introduces covert channels and information leakage analysis.
+
+ARTIFICIAL INTELLIGENCE, MACHINE LEARNING, AND NEURAL NETWORKS
+==============================================================
+B131. Artificial Intelligence: A Modern Approach — Stuart Russell & Peter Norvig: Establishes AI foundations, search, reasoning, learning, and intelligent agents.
+
+B132. Pattern Recognition and Machine Learning — Christopher M. Bishop: Explains probabilistic modeling and statistical machine learning.
+
+B133. Machine Learning: A Probabilistic Perspective — Kevin P. Murphy: Provides mathematical foundations for probabilistic machine learning.
+
+B134. Probabilistic Machine Learning: An Introduction — Kevin P. Murphy: Develops modern machine-learning concepts through probability.
+
+B135. Deep Learning — Ian Goodfellow, Yoshua Bengio & Aaron Courville: Explains neural networks, optimization, representation learning, and deep architectures.
+
+B136. Understanding Deep Learning — Simon J. D. Prince: Teaches modern neural-network principles and mathematical foundations.
+
+B137. Dive into Deep Learning — Aston Zhang, Zachary C. Lipton, Mu Li & Alexander J. Smola: Combines deep-learning theory with executable implementations.
+
+B138. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow — Aurélien Géron: Develops practical machine-learning and neural-network implementation skills.
+
+B139. The Elements of Statistical Learning — Trevor Hastie, Robert Tibshirani & Jerome Friedman: Explores statistical learning theory and predictive modeling.
+
+B140. Reinforcement Learning: An Introduction — Richard S. Sutton & Andrew G. Barto: Explains agents, rewards, policies, and sequential decision-making.
+
+B141. Speech and Language Processing — Daniel Jurafsky & James H. Martin: Covers natural-language processing, language models, and computational linguistics.
+
+B142. Build a Large Language Model (From Scratch) — Sebastian Raschka: Teaches transformer and language-model construction through implementation.
+
+B143. Natural Language Processing with Transformers — Lewis Tunstall, Leandro von Werra & Thomas Wolf: Explains practical transformer-based language processing.
+
+B144. AI Engineering — Chip Huyen: Covers foundation-model applications, evaluation, deployment, and production engineering.
+
+B145. Interpretable Machine Learning — Christoph Molnar: Explains methods for understanding and evaluating model behavior.
+
+B146. Machine Learning Security — Clarence Chio & David Freeman: Examines adversarial machine learning and security risks in AI systems.
+
+B147. Artificial Intelligence and Machine Learning for Coders — Laurence Moroney: Introduces practical AI development through programming.
+
+B230. Perceptrons — Marvin Minsky & Seymour Papert: Examines the computational capabilities and limits of early neural networks.
+
+B231. Parallel Distributed Processing — David E. Rumelhart, James L. McClelland & PDP Research Group: Establishes foundational connectionist approaches to cognitive computation.
+
+B232. Neural Networks and Deep Learning — Michael Nielsen: Introduces neural networks and backpropagation through worked examples.
+
+INFORMATION THEORY, COMMUNICATION, AND KNOWLEDGE REPRESENTATION
+===============================================================
+B148. A Mathematical Theory of Communication — Claude E. Shannon: Establishes information entropy, channel capacity, and mathematical communication theory.
+
+B149. Elements of Information Theory — Thomas M. Cover & Joy A. Thomas: Develops rigorous information theory, coding, compression, and communication principles.
+
+B150. Information Theory, Inference, and Learning Algorithms — David J. C. MacKay: Connects information theory with probability, coding, and machine learning.
+
+B151. Information Theory and Reliable Communication — Robert G. Gallager: Explains channel coding, communication reliability, and information transmission.
+
+B152. Data Compression: The Complete Reference — David Salomon: Examines lossless and lossy compression algorithms.
+
+B153. Error Control Coding — Shu Lin & Daniel J. Costello Jr.: Teaches error-detecting and error-correcting codes.
+
+B154. Knowledge Representation and Reasoning — Ronald J. Brachman & Hector J. Levesque: Explains formal knowledge models, inference, and symbolic AI.
+
+B155. Semantic Web for the Working Ontologist — Dean Allemang, James Hendler & Fabien Gandon: Teaches RDF, OWL, ontologies, and semantic knowledge systems.
+
+B156. Semiotics and the Philosophy of Language — Umberto Eco: Examines signs, meaning, interpretation, and information representation.
+
+B233. The Mathematical Theory of Communication — Claude E. Shannon & Warren Weaver: Places Shannon's information theory in broader communication context.
+
+COMPLEX SYSTEMS, SYSTEMS THINKING, AND CYBERNETICS
+==================================================
+B157. Thinking in Systems — Donella H. Meadows: Teaches feedback loops, system boundaries, and emergent behavior.
+
+B158. Complex Adaptive Systems — John H. Miller & Scott E. Page: Explains adaptation, emergence, and interactions in complex systems.
+
+B159. An Introduction to Cybernetics — W. Ross Ashby: Establishes feedback, regulation, and control theory.
+
+B160. Cybernetics: Or Control and Communication in the Animal and the Machine — Norbert Wiener: Connects computation, communication, feedback, and biological systems.
+
+B161. General System Theory — Ludwig von Bertalanffy: Introduces common organizational principles across scientific systems.
+
+B162. The Systems View of Life — Fritjof Capra & Pier Luigi Luisi: Examines interconnected biological, cognitive, and social systems.
+
+B163. Complexity: A Guided Tour — Melanie Mitchell: Explains emergence, computation, networks, and complex adaptive behavior.
+
+B164. Sync — Steven Strogatz: Explores synchronization and collective behavior in interconnected systems.
+
+B165. Linked — Albert-László Barabási: Introduces network science and the structure of connected systems.
+
+B166. Networks: An Introduction — Mark Newman: Provides mathematical foundations for analyzing complex networks.
+
+B234. Steps to an Ecology of Mind — Gregory Bateson: Explores feedback, communication, and patterns connecting minds and systems.
+
+HUMAN COGNITION, PSYCHOLOGY, AND COMPUTATIONAL MODELS OF MIND
+=============================================================
+B167. The Principles of Psychology — William James: Establishes historical foundations of perception, attention, memory, and consciousness.
+
+B168. Cognitive Psychology: A Student's Handbook — Michael W. Eysenck & Mark T. Keane: Explains memory, attention, perception, reasoning, and cognitive processing.
+
+B169. Thinking, Fast and Slow — Daniel Kahneman: Explores cognitive biases, judgment, and decision-making.
+
+B170. How the Mind Works — Steven Pinker: Examines cognition through evolutionary and computational perspectives.
+
+B171. Behave — Robert M. Sapolsky: Connects neuroscience, biology, and human behavior.
+
+B172. Influence — Robert B. Cialdini: Explains persuasion, social influence, and behavioral mechanisms.
+
+B173. Predictably Irrational — Dan Ariely: Examines systematic departures from rational decision-making.
+
+B174. The User Illusion — Tor Nørretranders: Explores consciousness, perception, and information processing.
+
+B175. The Origin of Consciousness in the Breakdown of the Bicameral Mind — Julian Jaynes: Presents a speculative historical theory of consciousness.
+
+B176. Stalking the Wild Pendulum — Itzhak Bentov: Presents speculative connections among consciousness, physics, and perception.
+
+B177. Waking Up — Sam Harris: Explores consciousness, introspection, and contemplative experience.
+
+B178. The Art of Peace — Morihei Ueshiba: Presents philosophical principles concerning discipline, conflict, and human conduct.
+
+B179. The Society of Mind — Marvin Minsky: Models intelligence as interactions among simpler cognitive processes.
+
+B180. The Emotion Machine — Marvin Minsky: Explores emotion and cognition through computational models.
+
+B181. Cognitive Science: An Introduction to the Science of the Mind — José Luis Bermúdez: Integrates psychology, neuroscience, philosophy, and computation.
+
+B182. The Design of Everyday Things — Don Norman: Explains human-centered design, usability, and cognitive interaction with technology.
+
+B235. The Sciences of the Artificial — Herbert A. Simon: Connects design, bounded rationality, cognition, and artificial systems.
+
+HISTORICAL COMPUTER SYSTEMS AND COMPUTING EVOLUTION
+===================================================
+B183. The B5500 Information Processing System — Burroughs Corporation: Documents an influential stack-based computer architecture and its hardware/software design.
+
+B184. Computer Architecture: A Minimalist Perspective — William F. Gilreath & Phillip A. Laplante: Explores processor architecture and the organization of computing machinery.
+
+B185. The Soul of a New Machine — Tracy Kidder: Examines the engineering and organizational challenges of developing a computer.
+
+B186. A History of Modern Computing — Paul E. Ceruzzi: Traces the evolution of computing hardware, software, and computer industries.
+
+B187. The Dream Machine — M. Mitchell Waldrop: Explores the development of interactive computing and modern computer science.
+
+B188. The Innovators — Walter Isaacson: Traces the people and ideas behind digital computing and the internet.
+
+B189. Hackers: Heroes of the Computer Revolution — Steven Levy: Explores early programming culture, computing experimentation, and hacker ethics.
+
+B190. The Cuckoo's Egg — Clifford Stoll: Demonstrates early network intrusion investigation and security operations.
+
+B236. The Annotated Turing — Charles Petzold: Explains Turing's foundational computability paper in historical and technical context.
+
+B237. The First Computers: History and Architectures — Raúl Rojas & Ulf Hashagen, editors: Surveys early computer machines and architectural innovations.
+
+B238. Fire in the Valley — Paul Freiberger & Michael Swaine: Chronicles personal computing's early development and culture.
+
+B239. The Jargon File — Community contributors; Eric S. Raymond, editor of print adaptation: Preserves hacker vocabulary, traditions, and computing history.
+
+GRAPHICS, HUMAN-COMPUTER INTERACTION, AND VISUALIZATION
+=======================================================
+B240. Computer Graphics: Principles and Practice — John F. Hughes and collaborators: Explains rendering, geometry, imaging, and the foundations of computer graphics.
+
+B241. Fundamentals of Computer Graphics — Steve Marschner & Peter Shirley: Introduces geometric transforms, rasterization, shading, and rendering.
+
+B242. Interactive Computer Graphics — Edward Angel & Dave Shreiner: Explains graphics programming pipelines and interactive rendering.
+
+B243. Don't Make Me Think — Steve Krug: Teaches practical usability and intuitive web interface design.
+
+COMPUTER VISION AND ROBOTICS
+============================
+B244. Computer Vision: Algorithms and Applications — Richard Szeliski: Explains image formation, feature detection, reconstruction, and vision algorithms.
+
+B245. Probabilistic Robotics — Sebastian Thrun, Wolfram Burgard & Dieter Fox: Introduces probabilistic localization, mapping, and robot decision-making.
+
+B246. Robotics: Modelling, Planning and Control — Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani & Giuseppe Oriolo: Explains robot kinematics, control, and motion planning.
+
+EMBEDDED SYSTEMS AND REAL-TIME COMPUTING
+========================================
+B247. Making Embedded Systems — Elecia White: Introduces firmware design, debugging, peripherals, and constrained computing.
+
+B248. Embedded Systems: Introduction to ARM Cortex-M Microcontrollers — Jonathan W. Valvano: Teaches microcontroller programming and hardware interfacing.
+
+B249. Real-Time Systems — Jane W. S. Liu: Explains scheduling, timing constraints, and real-time system correctness.
+
+CLOUD, VIRTUALIZATION, AND INFRASTRUCTURE
+=========================================
+B250. The Datacenter as a Computer — Luiz André Barroso, Urs Hölzle & Parthasarathy Ranganathan: Explains warehouse-scale computing and infrastructure design.
+
+B251. Kubernetes: Up and Running — Brendan Burns, Joe Beda & Kelsey Hightower: Introduces container orchestration and distributed deployment.
+
+B252. Infrastructure as Code — Kief Morris: Teaches repeatable, version-controlled infrastructure management.
+
+FREE ONLINE LEARNING RESOURCES — BY CATEGORY
+Links are course/resource landing pages; availability and free tiers may change.
+
+Digital Electronics, Logic, and Computer Hardware
+  - MIT OCW 6.004 Computation Structures: https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
+  - Nand2Tetris official course: https://www.nand2tetris.org/
+  - MIT OCW 6.002 Circuits and Electronics: https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/
+
+Mathematics and Theoretical Computer Science
+  - MIT OCW 6.042J Mathematics for Computer Science: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/
+  - MIT OCW 18.06 Linear Algebra: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+  - MIT OCW 6.045J Automata, Computability, and Complexity: https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/
+  - Khan Academy Mathematics: https://www.khanacademy.org/math
+
+Programming, Languages, and Software Foundations
+  - MIT OCW 6.0001 Introduction to Computer Science and Programming in Python: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+  - MIT SICP course: https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/
+  - freeCodeCamp: https://www.freecodecamp.org/learn
+  - The Odin Project: https://www.theodinproject.com/paths
+  - CS50x Harvard: https://cs50.harvard.edu/x/
+
+Algorithms, Data Structures, and Computational Problem-Solving
+  - MIT OCW 6.006 Introduction to Algorithms: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+  - MIT OCW 6.046J Design and Analysis of Algorithms: https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
+  - VisuAlgo: https://visualgo.net/en
+
+Operating Systems, UNIX, and Systems Programming
+  - MIT 6.S081 Operating System Engineering: https://pdos.csail.mit.edu/6.S081/2020/
+  - Operating Systems: Three Easy Pieces free book: https://pages.cs.wisc.edu/~remzi/OSTEP/
+  - Linux From Scratch: https://www.linuxfromscratch.org/lfs/
+  - Linux man-pages project: https://www.kernel.org/doc/man-pages/
+
+Compilers, Interpreters, and Programming Language Implementation
+  - Crafting Interpreters official text: https://craftinginterpreters.com/
+  - MIT OCW 6.035 Computer Language Engineering: https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/
+  - LLVM documentation: https://llvm.org/docs/
+
+Networking, Internet Architecture, and Communication Protocols
+  - Stanford CS144 Introduction to Computer Networking: https://cs144.github.io/
+  - IETF RFC Editor: https://www.rfc-editor.org/
+  - Wireshark documentation: https://www.wireshark.org/docs/
+  - Cisco Skills for All: https://skillsforall.com/
+
+Databases, Storage, and Distributed Systems
+  - CMU 15-445/645 Database Systems: https://15445.courses.cs.cmu.edu/
+  - MIT 6.5840 Distributed Systems: https://pdos.csail.mit.edu/6.824/
+  - PostgreSQL documentation: https://www.postgresql.org/docs/
+
+Software Engineering, Architecture, and Reliability
+  - MIT Missing Semester: https://missing.csail.mit.edu/
+  - Google SRE Books: https://sre.google/books/
+  - Software Engineering at Google (online): https://abseil.io/resources/swe-book
+  - freeCodeCamp Quality Assurance: https://www.freecodecamp.org/learn/quality-assurance/
+
+Cybersecurity, Cryptography, and Offensive Security
+  - MIT OCW 6.857 Network and Computer Security: https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/
+  - PortSwigger Web Security Academy: https://portswigger.net/web-security
+  - OWASP Web Security Testing Guide: https://owasp.org/www-project-web-security-testing-guide/
+  - NIST Computer Security Resource Center: https://csrc.nist.gov/
+  - OpenSecurityTraining2: https://opensecuritytraining.info/
+
+Artificial Intelligence, Machine Learning, and Neural Networks
+  - MIT OCW 6.034 Artificial Intelligence: https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/
+  - MIT OCW 6.036 Introduction to Machine Learning: https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
+  - fast.ai Practical Deep Learning: https://course.fast.ai/
+  - Hugging Face Course: https://huggingface.co/learn/llm-course/chapter1/1
+  - Dive into Deep Learning: https://d2l.ai/
+
+Information Theory, Communication, and Knowledge Representation
+  - MIT OCW 6.441 Information Theory: https://ocw.mit.edu/courses/6-441-information-theory-spring-2010/
+  - W3C RDF specifications: https://www.w3.org/TR/rdf11-concepts/
+  - W3C OWL 2 overview: https://www.w3.org/TR/owl2-overview/
+  - MacKay textbook free online: https://www.inference.org.uk/mackay/itila/
+
+Complex Systems, Systems Thinking, and Cybernetics
+  - Santa Fe Institute Complexity Explorer: https://www.complexityexplorer.org/
+  - MIT OCW System Dynamics Self Study: https://ocw.mit.edu/search/?q=system%20dynamics
+  - NetLogo Models Library: https://ccl.northwestern.edu/netlogo/models/
+
+Human Cognition, Psychology, and Computational Models of Mind
+  - MIT OCW 9.00SC Introduction to Psychology: https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/
+  - MIT OCW 9.40 Introduction to Neural Computation: https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/
+  - Noba Psychology: https://nobaproject.com/
+
+Historical Computer Systems and Computing Evolution
+  - Computer History Museum: https://computerhistory.org/
+  - Internet Archive Computer History Collection: https://archive.org/details/computersandtechvideos
+  - Bitsavers archival documents: https://bitsavers.org/
+
+Graphics, Human-Computer Interaction, and Visualization
+  - MIT OCW Computer Graphics search: https://ocw.mit.edu/search/?q=computer%20graphics
+  - LearnOpenGL: https://learnopengl.com/
+  - Nielsen Norman Group free articles: https://www.nngroup.com/articles/
+
+Computer Vision and Robotics
+  - Stanford CS231n: https://cs231n.stanford.edu/
+  - MIT Underactuated Robotics: https://underactuated.mit.edu/
+  - OpenCV tutorials: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+
+Embedded Systems and Real-Time Computing
+  - UT Austin Embedded Systems edX course page: https://www.edx.org/learn/embedded-systems
+  - FreeRTOS documentation: https://www.freertos.org/Documentation/RTOS_book.html
+  - ARM learning resources: https://learn.arm.com/
+
+Cloud, Virtualization, and Infrastructure
+  - Kubernetes official tutorials: https://kubernetes.io/docs/tutorials/
+  - Docker Get Started: https://docs.docker.com/get-started/
+  - Linux Foundation free courses: https://training.linuxfoundation.org/resources/free-courses/
